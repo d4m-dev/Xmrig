@@ -37,7 +37,7 @@ Tải Termux từ GitHub (khuyên dùng):
 ### 3. Chạy lệnh cài auto đào coin XMRig
 1. `apt-get update -y && apt-get install git -y && pkg install cmake`
 2. `apt update -y && apt upgrade -y`
-3. `git clone https://github.com/d4m-dev/termux-xmrig-miner.git`
+3. `git clone https://github.com/d4m-dev/Xmrig.git`
 5. `cd termux-xmrig-miner`
 6. `chmod +x xmrig-menu.sh`
 7. `./xmrig-menu.sh`
