@@ -36,7 +36,16 @@
     <li>Nên cắm sạc khi đào</li>
   </ul>
 
-  <h2>📥 Cài đặt</h2>
+  <h2>📥 Cài đặt tool Xmrig</h2>
+  <pre style="background: #282c34; color: #abb2bf; padding: 15px; border-radius: 5px; overflow-x: auto;">
+pkg update -y && pkg upgrade -y
+pkg install git cmake -y
+git clone https://github.com/xmrig/xmrig && cd xmrig
+    
+mkdir build && cd build
+cmake -DWITH_HWLOC=OFF .. && make
+  </pre>
+  <h2>📥 Cài đặt Menu Xmrig</h2>
   <pre style="background: #282c34; color: #abb2bf; padding: 15px; border-radius: 5px; overflow-x: auto;">
 pkg update -y && pkg upgrade -y
 pkg install git cmake -y
@@ -55,10 +64,7 @@ chmod +x xmrig-menu.sh
    TERMUX XMRIG MINER - v1.0
 =================================
 1. Bắt đầu đào Monero
-2. Cập nhật XMRig
-3. Xem giá XMR hiện tại
-4. Thông tin hệ thống
-5. Thoát
+0. Thoát
 =================================
   </pre>
 
