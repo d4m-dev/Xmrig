@@ -7,7 +7,7 @@
     <span style="display:inline-block; background:#9b59b6; color:white; padding:4px 8px; border-radius:4px;">License: MIT</span>
   </p>
 
-  <img src="https://github.com/d4m-dev/Xmrig/blob/main/img/screen_shot.jpg" alt="XMRig Miner Screenshot" style="max-width: 100%; border-radius: 5px; margin: 20px 0;">
+  <img src="./img/screen_shot.jpg" alt="XMRig Miner Screenshot" style="max-width: 100%; border-radius: 5px; margin: 20px 0;">
 
   <h2>📌 Giới thiệu</h2>
   <p>Script giúp tự động hóa quá trình đào Monero (XMR) trên Android thông qua Termux bằng XMRig.</p>
