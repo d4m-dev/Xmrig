@@ -32,7 +32,7 @@
     <li>Android 7.0 trở lên</li>
     <li>Termux phiên bản mới nhất</li>
     <li>Kết nối Internet ổn định</li>
-    <li>RAM tối thiểu 2GB (khuyến nghị 4GB+)</li>
+    <li>RAM tối thiểu 6GB (khuyến nghị 6GB+)</li>
     <li>Nên cắm sạc khi đào</li>
   </ul>
 
@@ -115,7 +115,7 @@ chmod +x xmrig-menu.sh
   </p>
 
   <h2>📜 Giấy phép</h2>
-  <p>Dự án phát hành theo giấy phép <a href="LICENSE">MIT</a>.</p>
+  <p>Dự án phát hành theo giấy phép <a href="LICENSE.MD">MIT</a>.</p>
 
   <hr>
   <h3>🔗 Liên kết hữu ích</h3>
