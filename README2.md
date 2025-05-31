@@ -1,13 +1,7 @@
 <div class="header">
         <h1>Termux XMRig Miner - Đào Monero tự động trên Android</h1>
         <div class="badges">
-            <span class="badge" style="background-color: #3498db;">Platform: Termux</span>
-            <span class="badge" style="background-color: #27ae60;">Language: Bash</span>
-            <span class="badge" style="background-color: #9b59b6;">License: MIT</span>
-        </div>
-        <img src="https://i.imgur.com/JqYe3Wn.png" alt="XMRig Miner Screenshot" class="center-img" width="400">
-    </div>
-
+        
     <div class="section">
         <h2 class="section-title">📌 Giới thiệu</h2>
         <p>Một script tự động hóa quá trình đào Monero (XMR) trên thiết bị Android thông qua Termux sử dụng XMRig.</p>
